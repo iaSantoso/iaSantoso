@@ -210,7 +210,7 @@ background-color: transparent;
 }
 
 #meet-us,
-#services,
+#skills,
 #works,
 #basic-information{
 	padding: 60px 0;
@@ -250,7 +250,7 @@ a.down-btn span.fa.fa-angle-down {
 	margin: auto 0;
 }
 
-.service{
+.skill{
 	border: 1px solid #222;
 	margin-top: 20px;
 	margin-bottom: 0px;
@@ -258,11 +258,11 @@ a.down-btn span.fa.fa-angle-down {
 	position: relative;
 	padding: 60px 25px;
 }
-.service:hover>h4,
-.service:hover>span.fa{
+.skill:hover>h4,
+.skill:hover>span.fa{
 	color: limegreen;
 }
-.service:hover{
+.skill:hover{
 	border-color: limegreen;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -270,7 +270,7 @@ a.down-btn span.fa.fa-angle-down {
 	padding-top: 80px;
 	padding-bottom: 80px;
 }
-.service p{
+.skill p{
 	font-size: 14px;
 	padding-top: 20px;
 	font-family: 'Lato', sans-serif;
